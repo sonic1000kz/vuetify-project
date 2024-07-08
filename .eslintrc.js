@@ -5,6 +5,8 @@ module.exports = {
   },
   extends: [
     'plugin:vue/vue3-essential',
+    //'plugin:vue/base',
     'eslint:recommended',
+    'plugin:vuetify/base',
   ],
 }
